@@ -1,0 +1,10 @@
+1;BCR-345;Honda;CR-V;5;30000;Rojo
+2;GHI-567;Ford;Explorer;7;35000;Blanco
+3;JKL-890;Chevrolet;Tracker;5;22000;Azul
+4;MNO-123;Nissan;X-Trail;5;29000;Gris
+5;PQR-456;Mazda;CX-5;5;33000;Plateado
+6;STU-789;Hyundai;Tucson;5;31000;Verde
+7;VWX-234;Subaru;Forester;5;34000;Marrón
+8;YZA-678;Volkswagen;Tiguan;5;32000;Naranja
+9;BCD-901;Peugeot;3008;5;28000;Beige
+10;EFG-234;Renault;Koleos;5;27000;Violeta
